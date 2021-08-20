@@ -8,4 +8,9 @@ I am currently pursuing my bachelor's in information technology. Being an IT stu
 - 🌱 I’m currently exploring the prospects of machine learning, data science as well as artificial intelligence
 - 👯 I’m looking to collaborate on projects that require the above skills.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/simran-gandhi-8b574319a/)
+- ⚡ Fun Fact: I listen to songs just for the lyrics🎶
+
+## Languages and tools:
+<p align="left"> <a href="https://www.python.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
+
 
